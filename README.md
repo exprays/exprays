@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Saturn AI.<br>🌱 I’m currently learning Rust and Hyperledger.<br>💬 Ask me about Anime, Racing, Astronomy, Volleyball and Code.
+# 💫 About Me
+💥Experimenting here.<br>🔭 I’m currently working on Saturn AI.<br>🌱 I’m currently learning Rust and Hyperledger.<br>💬 Ask me about Anime, Racing, Astronomy, Volleyball and Code.
 
 
 ## 🌐 Socials:
