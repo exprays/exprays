@@ -1,5 +1,5 @@
-# 💫 About Me
-💥Experimenting here.<br>🔭 I’m currently working on Saturn AI.<br>🌱 I’m currently learning Rust and Hyperledger.<br>💬 Ask me about Anime, Racing, Astronomy, Volleyball and Code.
+# WE BUILD AWESOME STUFF :)
+### With 💗 by [@rayxdev](https://instagram.com/rayxdev)
 
 
 ## 🌐 Socials:
@@ -14,8 +14,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rayxlab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help us by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rayxlab) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
